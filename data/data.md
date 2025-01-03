@@ -6,5 +6,5 @@ The following public datasets were used:
 - [Fruits and Vegetable Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 
 ### Our Dataset
-- Video of food items recorded at the SoVi cafeteria.
+-[Video]( https://drive.google.com/drive/folders/1E522QGRmTrZaXO5WY8uqPyHFw-O5Q4uX) of food items recorded at the SoVi cafeteria.
 - Video frames were extracted into images using OpenCV for training.
